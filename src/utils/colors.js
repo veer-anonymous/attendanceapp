@@ -1,0 +1,9 @@
+export const TEXT_LIGHT = '#5D6D7E';
+export const TEXT_DARK = '#023047';
+export const TEXT_BLUE = '#073591';
+export const TEXT_RED = '#e63946';
+export const PRIMARY_DARK = '#023047';
+export const PRIMARY_LIGHT_DARK = '#415a77';
+export const PRIMARY_BROWN = '#78290f';
+export const PRIMARY = '#0077b6';
+export const THEME_COLOR = '#f77f00';

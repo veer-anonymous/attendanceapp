@@ -1,0 +1,7 @@
+npm install @react-native-async-storage/async-storage @react-navigation/native @react-navigation/stack react-redux @reduxjs/toolkit axios react-native-gesture-handler react-native-table-component react-native-safe-area-context react-native-screens formik yup react-native-reanimated
+
+plugins: ['react-native-reanimated/plugin',],
+
+npm start -- --reset-cache
+
+npx react-native@0.73.1 init SMSMobileApp --version 0.73.1
